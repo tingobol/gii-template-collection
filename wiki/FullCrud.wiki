@@ -1,0 +1,19 @@
+#summary More info about the extended CRUD generator
+
+= Introduction =
+
+FullCrud provides CRUD rendering with relations
+
+= Details =
+
+== Templates ==
+
+tbd
+
+== Field Providers ==
+
+tbd
+
+== Formatter ==
+
+tbd
